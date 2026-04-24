@@ -28,8 +28,10 @@
   }
 ,
   
-    "engines": {
-      "node": "18.x"
-    }
+    
+      "engines": {
+        "node": "22.x"
+      }
+    
   
 }
